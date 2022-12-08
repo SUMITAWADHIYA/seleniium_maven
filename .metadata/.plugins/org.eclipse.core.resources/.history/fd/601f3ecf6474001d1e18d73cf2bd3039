@@ -1,0 +1,20 @@
+package com.durgasoft.commerce.listeners;
+
+import org.testng.IRetryAnalyzer;
+import org.testng.ITestResult;
+
+public class Retry implements IRetryAnalyzer {
+	private int retryCount = 0;
+	private int maxRetryCount = 3;
+
+	public boolean retry(ITestResult result) {
+		if(retryCount<maxRetryCount) {
+			log("Retry Testing"+agr0.getName()+"with status"+getResultStatusName(agr0.getStatus())+"for the"+(retryCount+1)+"times");
+			retryCount++;
+			retrun true;
+		}
+		
+		return false;
+	}
+
+}

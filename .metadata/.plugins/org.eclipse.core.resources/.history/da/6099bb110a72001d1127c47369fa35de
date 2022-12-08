@@ -1,0 +1,40 @@
+package com.durgasoft.commerce.pageUI;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class PageUI {
+	public static final Logger log = Logger.getLogger(PageUI.class.getName());
+	@FindBy(linkText = "HMS")WebElement linkHMS;
+	@FindBy(name = "username") WebElement txtUserName;
+	@FindBy(name = "password") WebElement txtPassword;
+	@FindBy(name = "submit") WebElement btnLogin;
+	@FindBy(linkText = "Registration")WebElement linkRG;
+	@FindBy(linkText = "Perminent Registration")WebElement linkPR;
+	@FindBy(linkText = "Logout")WebElement linkLogOut;
+	
+	public PageUI(WebDriver driver) {
+		PageFactory.initElements(driver, this);
+	}
+
+	public void Login() {
+	linkHMS.click();
+	log.info("Clink on HMS link with object:"+linkHMS.toString());
+	txtUserName.sendKeys("admin");
+	log.info("Clink on Username  and Enter UserName with object:"+txtUserName.toString());
+	txtPassword.sendKeys("admin");
+	log.info("Clink on Password  and Enter password with object:"+txtPassword.toString());
+	btnLogin.click();
+	log.info("Clink on submit link with object:"+btnLogin.toString());
+	linkRG.click();
+	log.info("Clink on Registration link with object:"+linkRG.toString());
+	linkPR.click();
+	log.info("Clink on PR link with object:"+linkPR.toString());
+	linkLogOut.click();
+	log.info("Clink on Logout link with object:"+linkLogOut.toString());
+	}
+
+}

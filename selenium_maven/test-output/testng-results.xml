@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T15:42:31 IST" name="Default suite" finished-at="2022-12-06T15:42:40 IST" duration-ms="8668">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T15:42:31 IST" name="Default test" finished-at="2022-12-06T15:42:40 IST" duration-ms="8668">
+      <class name="com.durgasoft.selenium_maven_ebay.url">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.durgasoft.selenium_maven_ebay.url@37d4349f]" started-at="2022-12-06T15:42:31 IST" name="beforeTest" finished-at="2022-12-06T15:42:36 IST" duration-ms="5077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="search()[pri:0, instance:com.durgasoft.selenium_maven_ebay.url@37d4349f]" started-at="2022-12-06T15:42:36 IST" name="search" finished-at="2022-12-06T15:42:40 IST" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- com.durgasoft.selenium_maven_ebay.url -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+package com.durgasoft.commerce.pageUI;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class PageUI {
+	@FindBy(linkText = "HMS")WebElement linkHMS;
+	@FindBy(name = "username") WebElement txtUserName;
+	@FindBy(name = "password") WebElement txtPassword;
+	@FindBy(name = "sumbit") WebElement btnLogin;
+	@FindBy(linkText = "Registration")WebElement linkRG;
+	@FindBy(linkText = "Perminent Registration")WebElement linkPR;
+	@FindBy(linkText = "Logout")WebElement linkLogOut;
+	
+	public void Login() {
+	linkHMS.click();
+	txtUserName.sendKeys("admin");
+	txtPassword.sendKeys("admin");
+	btnLogin.click();
+	linkRG.click();
+	linkPR.click();
+	linkLogOut.click();
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.durgasoft.commerce.homepage;
+
+import org.testng.annotations.Test;
+import com.durgasoft.commerce.basepage.BasePage;
+import com.durgasoft.commerce.pageUI.PageUI;
+
+import org.testng.annotations.BeforeTest;
+
+public class HMS extends BasePage {
+  @Test
+  public void HHMMSS() {
+	  PageUI el = new PageUI();
+	  el.Login();
+  }
+  @BeforeTest
+  public void beforeTest() {
+	  BrowserLaunch("Chrome", "http://seleniumbymahesh.com");
+	  BrowserLaunch("Edge", "http://selenium.dev");
+  }
+}

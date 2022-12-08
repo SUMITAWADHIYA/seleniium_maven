@@ -1,0 +1,14 @@
+package com.durgasoft.commerce.homepage;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+
+public class HMS {
+  @Test
+  public void f() {
+  }
+  @BeforeTest
+  public void beforeTest() {
+  }
+
+}

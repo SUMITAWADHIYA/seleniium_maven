@@ -1,0 +1,177 @@
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (5daede504bf0fe082801d2f54e36eaa2)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (5daede504bf0fe082801d2f54e36eaa2)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (5daede504bf0fe082801d2f54e36eaa2)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (5daede504bf0fe082801d2f54e36eaa2)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (4e160d43a6cabdf5a4277055ae368738)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (4e160d43a6cabdf5a4277055ae368738)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (4e160d43a6cabdf5a4277055ae368738)] -> link text: Registration]
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (01a52b2e87edb1ce92da3c014a4da6df)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (01a52b2e87edb1ce92da3c014a4da6df)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (01a52b2e87edb1ce92da3c014a4da6df)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (01a52b2e87edb1ce92da3c014a4da6df)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (10109ff9cc54427f38dfbf9dff007e8c)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (10109ff9cc54427f38dfbf9dff007e8c)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (10109ff9cc54427f38dfbf9dff007e8c)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (10109ff9cc54427f38dfbf9dff007e8c)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (6a4638f13ae8bf289dbdc1edf3072a9d)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (6a4638f13ae8bf289dbdc1edf3072a9d)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (6a4638f13ae8bf289dbdc1edf3072a9d)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (6a4638f13ae8bf289dbdc1edf3072a9d)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (4976c70927e233b23825815b6cd1a2b2)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (4976c70927e233b23825815b6cd1a2b2)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (4976c70927e233b23825815b6cd1a2b2)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (4976c70927e233b23825815b6cd1a2b2)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (3b845aa85a2dfe8dae664501ca54c6d6)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (3b845aa85a2dfe8dae664501ca54c6d6)] -> name: password]
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (72eb61235ac697edae309128d61e8ca3)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (72eb61235ac697edae309128d61e8ca3)] -> name: password]
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (5a4c925108d35812f6c1dc64a8c722d7)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (5a4c925108d35812f6c1dc64a8c722d7)] -> name: password]
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (66f183317b1930a8d23a724bcd1a169c)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (66f183317b1930a8d23a724bcd1a169c)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (66f183317b1930a8d23a724bcd1a169c)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (66f183317b1930a8d23a724bcd1a169c)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (3c045d5d9898dbbaf4323cb89d93f6c5)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (3c045d5d9898dbbaf4323cb89d93f6c5)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (3c045d5d9898dbbaf4323cb89d93f6c5)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (3c045d5d9898dbbaf4323cb89d93f6c5)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (caeaa42a3bd8fede136c8e99c4d1f30e)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (caeaa42a3bd8fede136c8e99c4d1f30e)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (caeaa42a3bd8fede136c8e99c4d1f30e)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (caeaa42a3bd8fede136c8e99c4d1f30e)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (caae7a789a82ff80cf6c96decda75935)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (caae7a789a82ff80cf6c96decda75935)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (caae7a789a82ff80cf6c96decda75935)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (caae7a789a82ff80cf6c96decda75935)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (3b57d4ac49d195c1d4a7400df759dc87)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (3b57d4ac49d195c1d4a7400df759dc87)] -> name: password]
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (11c931a088be0ad2600bab2bf0747535)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (11c931a088be0ad2600bab2bf0747535)] -> name: password]
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (b49ee07f9165ecfb81ccbc2d9c04e4cc)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (b49ee07f9165ecfb81ccbc2d9c04e4cc)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (b49ee07f9165ecfb81ccbc2d9c04e4cc)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (b49ee07f9165ecfb81ccbc2d9c04e4cc)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (3ddd3ab54b2bb1e6d67a87d4c2e5bb5a)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (3ddd3ab54b2bb1e6d67a87d4c2e5bb5a)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (3ddd3ab54b2bb1e6d67a87d4c2e5bb5a)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (3ddd3ab54b2bb1e6d67a87d4c2e5bb5a)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (3409df336c3afd3f8ee1f38612f547c0)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (3409df336c3afd3f8ee1f38612f547c0)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (3409df336c3afd3f8ee1f38612f547c0)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (3409df336c3afd3f8ee1f38612f547c0)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (b054a237d4efb13ba4f1a1d54cd1823f)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (b054a237d4efb13ba4f1a1d54cd1823f)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (b054a237d4efb13ba4f1a1d54cd1823f)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (b054a237d4efb13ba4f1a1d54cd1823f)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (6ac1a57cb589ba4bf384e332b2313483)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (6ac1a57cb589ba4bf384e332b2313483)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (6ac1a57cb589ba4bf384e332b2313483)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (6ac1a57cb589ba4bf384e332b2313483)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (28c079433c0ab3c822fb429af27327d7)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (28c079433c0ab3c822fb429af27327d7)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (28c079433c0ab3c822fb429af27327d7)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (28c079433c0ab3c822fb429af27327d7)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (3c6d7f187edb58f33430b82760840f37)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (3c6d7f187edb58f33430b82760840f37)] -> name: password]
+Clink on submit link with object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Clink on Registration link with object:[[ChromeDriver: chrome on WINDOWS (3c6d7f187edb58f33430b82760840f37)] -> link text: Registration]
+Clink on PR link with object:[[ChromeDriver: chrome on WINDOWS (3c6d7f187edb58f33430b82760840f37)] -> link text: Perminent Registration]
+Clink on Logout link with object:Proxy element for: DefaultElementLocator 'By.linkText: Logout'
+****End HMSLogout****
+****String HMSLogin****
+Clink on HMS link with object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Clink on Username  and Enter UserName with object:[[ChromeDriver: chrome on WINDOWS (f7617086ebe7809e69c5f4f99e9f224d)] -> name: username]
+Clink on Password  and Enter password with object:[[ChromeDriver: chrome on WINDOWS (f7617086ebe7809e69c5f4f99e9f224d)] -> name: password]
+****String HMSLogin****
+****String HMSLogin****
+****String HMSLogin****
