@@ -18,6 +18,7 @@ public class url {
 	  driver.findElement(By.id("gh-btn")).click();
 	  File file =((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 	  FileUtils.copyFile(file, new File("D:\\screenshoot\\image.png"));
+	  System.err.println("file will be screenshoot"+file);
   }
   @BeforeTest
   public void beforeTest() {
